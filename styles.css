@@ -1,0 +1,47 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#display {
+    display: flex;
+    border: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#row1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#row2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#row3 {
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#row4 {
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#row5 {
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
